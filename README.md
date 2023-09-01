@@ -12,6 +12,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <br>
   <br>
-<img src="https://github.com/Brucaraujo777/Projeto5-Money-Converter/blob/main/assets/Captura%20de%20tela%202023-06-13%20181015.png?raw=true">
+<img src="https://github.com/Brucaraujo777/Projeto6-JokenPo/blob/main/Captura%20de%20tela%202023-09-01%20182602.jpg?raw=true">
   <br>
   <br>
