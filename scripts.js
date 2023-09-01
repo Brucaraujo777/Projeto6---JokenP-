@@ -23,7 +23,7 @@ const playTheGame = (human, machine) => {
   console.log("Humano: " + human + " Maquina: " + machine);
 
   if (human === machine) {
-    result.innerHTML = "Deu empate!";
+    result.innerHTML = "Ops, deu empate!";
   } else if (
     (human === "paper" && machine === "rock") ||
     (human === "rock" && machine === "scissors") ||
